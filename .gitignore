@@ -24,7 +24,9 @@ target/
 dist/
 
 # JetBrains IDE
-.idea/
+.idea/*
+
+.vscode/*
 
 # Unit test reports
 TEST*.xml
